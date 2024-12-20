@@ -27,3 +27,8 @@
 | 07/2017-08/2017 | 6) Run Run Shaw Library: Student Helper (ORCID Outreach Activities/CityU Scholars Project Support) |
 | 06/2017-06/2017 | 7) Student Development Services: Student Helper (Jazz Ensemble workshops) |
 | 09/2016-01/2017 | 8) Department of Linguistics and Translation: Student Helper (“An Investigation of Strategies and Methods in Learning Chinese Vocabulary by Non-Chinese Speaking Students”, research project no.: 9211092) |
+
+| HACKATHON |  | 
+|:-------------|:-|
+| 10/2019-10/2019 | Classified Post Hackathon 2019 |
+| 10/2019-10/2019 | SmarTone Hackathon 2019 |
