@@ -1,4 +1,4 @@
-| PAID WORK EXPERIENCE – SERVICE INDUSTRY |
+| PAID WORK EXPERIENCE – SERVICE INDUSTRY ||
 |:----------------|:---------------------------------------------------------------------------------------------|
 | 11/2022-04/2023 | 1) Starbucks Canada: Barista (PT)                                                            | 
 | 09/2016-06/2019 | 2) City University of Hong Kong [Campus Work Scheme (CWS)]: Student Helper                   |
@@ -9,7 +9,7 @@
 | 07/2010-08/2010 | 7) Holly Restaurant (逸東海鮮酒家): Waiter                                                    |
 | 01/2009-12/2012 | 8) AsiaWorld-Expo Ltd.: Event Attendant (PT)                                                 |
 
-| PAID WORK EXPERIENCE – EDUCATION INDUSTRY |
+| PAID WORK EXPERIENCE – EDUCATION INDUSTRY ||
 |:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 10/2018-05/2019 | 1) The Boys' Brigade: Tutor at Mu Kuang English School                                                                                                   |
 | 01/2017-07/2017 | 2) The Boys' Brigade [Education Bureau School-based After-school Learning and Support Programs (校本課後學習及支援計劃)]: Tutor at Mu Kuang English School |
