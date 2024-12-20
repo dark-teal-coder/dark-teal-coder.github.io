@@ -56,3 +56,48 @@ Mathematics Courses at the University Level
 
 Final-year Project
 -	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
+
+IT Courses from Interest Classes and Self-Learning Online Platforms
+•	SoloLearn Java Tutorial (self-learning)
+o	Basic Concepts
+	primitive data types, String, variables, operators, etc. 
+o	Conditionals and Loops
+	conditional statements, nested if statements, switch statements, while loops, for loops, do-while loops, etc. 
+o	Arrays
+	arrays, enhanced for loops, multidimensional arrays, etc. 
+o	Classes and Objects
+	methods & their return types, classes & objects, class attributes, access modifiers, getters & setters, constructors, value & reference types, Math class, static, final, packages, etc. 
+o	OOPs Concepts
+	encapsulation, inheritance, polymorphism, overriding & overloading, abstract classes, interfaces, type casting, anonymous classes, inner classes, enums, Java API, etc. 
+o	Exceptions, Lists, Threads & Files
+	exception handling, threads, runtime vs. checked exceptions, ArrayList, LinkedList, HashMap, sets, sorting lists, iterators, reading & writing files, etc. 
+•	SoloLearn SQL Fundamentals (self-learning)
+o	Basic Concepts
+	databases, SELECT, SQL syntax rules, DISTINCT, LIMIT, etc.
+o	Filtering, Functions, Subqueries
+	WHERE, AND & OR, IN, NOT IN, AS, arithmetic operators, functions, subqueries, LIKE & MIN, etc.
+o	JOIN, Table Operations
+	types of join, UNION, INSERT, UPDATE & DELETE, SQL Tables, data types, primary key, NOT NULL & AUTO_INCREMENT, ALTER, DROP & rename a table, etc.
+•	HKFTU Java Programming (instructor-led)
+o	Basic Java programming 
+	data types, variables, operators, conditionals, loops, methods/functions and data structures
+o	Objects and classes in Java: methods, classes and packages/libraries
+o	Eclipse for Java
+•	HKFTU Android Apps and Java Programming (instructor-led)
+o	Basic Java programming
+	data types, variables, operators, conditionals, loops, methods/functions and data structures
+o	Objects and classes in Java: methods, classes and packages/libraries
+o	Eclipse for Java
+o	Android Studio to design UI and use XML and Java to create UX for simple Android apps
+•	edX Python Basics for Data Science (IBM) (self-learning)
+o	Module 1 Python Basics
+	data types, expressions, variables, string operations, etc. 
+o	Module 2 Python Data Structures
+	lists, tuples, sets, dictionaries, etc.
+o	Module 3 Python Programming Fundamentals
+	conditions & branching, loops, functions, objects & classes, etc.
+o	Module 4 Working with Data in Python
+	reading & writing files with open(), loading data, working with & saving data with pandas, etc.
+o	Module 5 Working with Numpy Arrays
+	numpy 1D arrays & 2D arrays, etc.
+o	IBM Watson Studio
