@@ -28,11 +28,6 @@
 | 06/2017-06/2017 | 7) Student Development Services: Student Helper (Jazz Ensemble workshops) |
 | 09/2016-01/2017 | 8) Department of Linguistics and Translation: Student Helper (“An Investigation of Strategies and Methods in Learning Chinese Vocabulary by Non-Chinese Speaking Students”, research project no.: 9211092) |
 
-| HACKATHON |  | 
-|:-------------|:-|
-| 10/2019-10/2019 | Classified Post Hackathon 2019 |
-| 10/2019-10/2019 | SmarTone Hackathon 2019 |
-
 IT and Development Tools
 -	Notepad++
 -	Eclipse for Java 
@@ -61,6 +56,11 @@ IT Courses from Interest Classes and Self-Learning Online Platforms
   -	Objects and classes in Java: methods, classes and packages/libraries
   -	Eclipse for Java
   -	Android Studio to design UI and use XML and Java to create UX for simple Android apps
+
+| HACKATHON |  | 
+|:-------------|:-|
+| 10/2019-10/2019 | Classified Post Hackathon 2019 |
+| 10/2019-10/2019 | SmarTone Hackathon 2019 |
 
 Mathematics Courses at the University Level
 -	MA1200 Calculus and Basic Linear Algebra I [A]
