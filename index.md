@@ -59,13 +59,13 @@ Final-year Project
 
 IT Courses from Interest Classes and Self-Learning Online Platforms
 -	HKFTU Java Programming (instructor-led)
-o	Basic Java programming 
-	data types, variables, operators, conditionals, loops, methods/functions and data structures
-o	Objects and classes in Java: methods, classes and packages/libraries
-o	Eclipse for Java
+  -	Basic Java programming 
+    -	data types, variables, operators, conditionals, loops, methods/functions and data structures
+  -	Objects and classes in Java: methods, classes and packages/libraries
+  -	Eclipse for Java
 -	HKFTU Android Apps and Java Programming (instructor-led)
-o	Basic Java programming
-	data types, variables, operators, conditionals, loops, methods/functions and data structures
-o	Objects and classes in Java: methods, classes and packages/libraries
-o	Eclipse for Java
-o	Android Studio to design UI and use XML and Java to create UX for simple Android apps
+  -	Basic Java programming
+    -	data types, variables, operators, conditionals, loops, methods/functions and data structures
+  -	Objects and classes in Java: methods, classes and packages/libraries
+  -	Eclipse for Java
+  -	Android Studio to design UI and use XML and Java to create UX for simple Android apps
