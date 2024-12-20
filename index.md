@@ -33,7 +33,10 @@
 | 10/2019-10/2019 | Classified Post Hackathon 2019 |
 | 10/2019-10/2019 | SmarTone Hackathon 2019 |
 
-Mathematics Courses at University Level
+Mathematics Courses at the University Level
 -	MA1200 Calculus and Basic Linear Algebra I [A]
 -	MA1201 Calculus and Basic Linear Algebra II [A+]
 -	LT2206 Fundamentals of Statistics for Language Studies [A]
+
+Final-year Project
+-	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
