@@ -49,14 +49,6 @@ IT and Development Tools
 -	Google Translator Toolkit
 -	Sketch Engine
 
-Mathematics Courses at the University Level
--	MA1200 Calculus and Basic Linear Algebra I [A]
--	MA1201 Calculus and Basic Linear Algebra II [A+]
--	LT2206 Fundamentals of Statistics for Language Studies [A]
-
-Final-year Project
--	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
-
 IT Courses from Interest Classes and Self-Learning Online Platforms
 -	HKFTU Java Programming (instructor-led)
   -	Basic Java programming 
@@ -69,3 +61,11 @@ IT Courses from Interest Classes and Self-Learning Online Platforms
   -	Objects and classes in Java: methods, classes and packages/libraries
   -	Eclipse for Java
   -	Android Studio to design UI and use XML and Java to create UX for simple Android apps
+
+Mathematics Courses at the University Level
+-	MA1200 Calculus and Basic Linear Algebra I [A]
+-	MA1201 Calculus and Basic Linear Algebra II [A+]
+-	LT2206 Fundamentals of Statistics for Language Studies [A]
+
+Final-year Project
+-	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
