@@ -32,3 +32,8 @@
 |:-------------|:-|
 | 10/2019-10/2019 | Classified Post Hackathon 2019 |
 | 10/2019-10/2019 | SmarTone Hackathon 2019 |
+
+Mathematics Courses at University Level
+•	MA1200 Calculus and Basic Linear Algebra I [A]
+•	MA1201 Calculus and Basic Linear Algebra II [A+]
+•	LT2206 Fundamentals of Statistics for Language Studies [A]
