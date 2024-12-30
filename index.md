@@ -1,3 +1,9 @@
+---
+title: PAGE TITLE HERE 1
+layout: template
+filename: index.md
+--- 
+
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
 | 11/2022-04/2023 | 1) Starbucks Canada: Barista (PT) | 
