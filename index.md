@@ -75,3 +75,5 @@ Mathematics Courses at the University Level
 
 Final-year Project
 -	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
+
+[Next page](https://dark-teal-coder.github.io/page2)
