@@ -4,6 +4,10 @@ layout: template
 filename: index.md
 --- 
 
+[Home](https://dark-teal-coder.github.io/)
+[Fundamentals of Investing](https://dark-teal-coder.github.io/fundamentals-of-investing.html)
+[Page 1](https://dark-teal-coder.github.io/page1)
+
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
 | 11/2022-04/2023 | 1) Starbucks Canada: Barista (PT) | 
@@ -75,7 +79,3 @@ Mathematics Courses at the University Level
 
 Final-year Project
 -	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
-
-[Home](https://dark-teal-coder.github.io/)
-[Fundamentals of Investing](https://dark-teal-coder.github.io/fundamentals-of-investing.html)
-[Page 1](https://dark-teal-coder.github.io/page1)
