@@ -77,5 +77,5 @@ Final-year Project
 -	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
 
 [Home](https://dark-teal-coder.github.io/)
+[Fundamentals of Investing](https://dark-teal-coder.github.io/fundamentals-of-investing.html)
 [Page 1](https://dark-teal-coder.github.io/page1)
-[Page 2](https://dark-teal-coder.github.io/page2)
