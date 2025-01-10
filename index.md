@@ -5,7 +5,6 @@ filename: index.md
 --- 
 
 [Home](https://dark-teal-coder.github.io/)
-[Fundamentals of Investing](https://dark-teal-coder.github.io/fundamentals-of-investing.html)
 [Page 1](https://dark-teal-coder.github.io/page1)
 
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
