@@ -1,27 +1,27 @@
 The following vocabulary list will help enhance your English level. I've compiled this myself and I'm sharing it with you. 
 
 - A lot - > tremendously
-▪️A lot of - > a tremendous amount of
-▪️Admit - > concede
-▪️After - > following
-▪️Although - > albeit
-▪️Always - > invariably
-▪️Among - > amid
-▪️Annoying - > irritating
-▪️Approve of - > applaud
-▪️Ask for - > request
-▪️Attack - > assault
-▪️Bad - > awful/horrendous/atrocious
-▪️Beautiful - > gorgeous/elegant/stunning/engaging/aesthetic
-▪️Before - > preceding
-▪️Big - > enormous
-▪️Buy - > purchase
-▪️Cause - > trigger/induce/arouse
-▪️Change - > modify/amend
-▪️Complete - > utter
-▪️Cute - > adorable
-▪️Dangerous - > hazardous
-▪️Destroy - > eradicate
+- A lot of - > a tremendous amount of
+- Admit - > concede
+- After - > following
+- Although - > albeit
+- Always - > invariably
+- Among - > amid
+- Annoying - > irritating
+- Approve of - > applaud
+- Ask for - > request
+- Attack - > assault
+- Bad - > awful/horrendous/atrocious
+- Beautiful - > gorgeous/elegant/stunning/engaging/aesthetic
+- Before - > preceding
+- Big - > enormous
+- Buy - > purchase
+- Cause - > trigger/induce/arouse
+- Change - > modify/amend
+- Complete - > utter
+- Cute - > adorable
+- Dangerous - > hazardous
+- Destroy - > eradicate
 ▪️Difficult - > challenging
 ▪️Disappointed - > disillusioned
 ▪️Early - > premature
