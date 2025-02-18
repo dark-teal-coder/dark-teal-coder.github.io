@@ -5,7 +5,7 @@ filename: index.md
 --- 
 
 [Home](https://dark-teal-coder.github.io/)
-[My Advanced English Vocabulary List](https://dark-teal-coder.github.io/advanced-eng-vocab)
+[My Advanced English Vocabulary List](https://dark-teal-coder.github.io/my-advanced-eng-vocab)
 
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
