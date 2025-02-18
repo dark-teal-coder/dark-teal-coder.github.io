@@ -5,7 +5,7 @@ filename: index.md
 --- 
 
 [Home](https://dark-teal-coder.github.io/)
-[Page 1](https://dark-teal-coder.github.io/page1)
+[Advanced English Vocabulary](https://dark-teal-coder.github.io/advanced-eng-vocab)
 
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
