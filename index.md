@@ -7,6 +7,7 @@ filename: index.md
 [Home](https://dark-teal-coder.github.io/)
 [My Advanced English Vocabulary List](https://dark-teal-coder.github.io/my-advanced-eng-vocab)
 [The Academic Word List](https://dark-teal-coder.github.io/the-academic-word-list)
+[IELTS Writing All-purpose Reasons](https://dark-teal-coder.github.io/ielts-writing-all-purpose-reasons)
 
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
