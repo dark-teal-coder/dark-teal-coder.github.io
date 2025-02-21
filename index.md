@@ -17,6 +17,7 @@
 | 01/2009-12/2012 | 8) AsiaWorld-Expo Ltd.: Event Attendant (PT) |
 
 <h1>Paid Work Experience – Education Industry</h1>
+
 | PAID WORK EXPERIENCE – EDUCATION INDUSTRY |  |
 |:------------------------------------------|:-|
 | 10/2018-05/2019 | 1) The Boys' Brigade: Tutor at Mu Kuang English School |
@@ -26,6 +27,7 @@
 | 08/2014-01/2015 | 5) Cetex Education Centre: Teacher Assistant & Clerk |
 
 <h1>Paid On-Campus Work Experience – CityU Campus Work Scheme (CWS)</h1>
+
 | PAID ON-CAMPUS WORK EXPERIENCE – CityU CAMPUS WORK SCHEME (CWS) |  |
 |:----------------------------------------------------------------|:-|
 | 12/2018-12/2018 | 1) Student Development Services: Student Helper (telephone interview for Graduate Employment Survey) |
@@ -83,6 +85,7 @@
 </ul>
 
 <h1>Hackathon</h1>
+
 | HACKATHON |  | 
 |:-------------|:-|
 | 10/2019-10/2019 | Classified Post Hackathon 2019 |
