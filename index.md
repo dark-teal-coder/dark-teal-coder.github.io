@@ -5,16 +5,40 @@
 
 <h1>Paid Work Experience – Service Industry</h1>
 
-| PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
-|:----------------------------------------|:-|
-| 11/2022-04/2023 | 1) Starbucks Canada: Barista (PT) | 
-| 09/2016-06/2019 | 2) City University of Hong Kong [Campus Work Scheme (CWS)]: Student Helper |
-| 04/2016-03/2017 | 3) Social Sciences Research Centre of The University of Hong Kong: Telephone Interviewer (PT) |
-| 07/2013-08/2013 | 4) Ma Thai [Kwai Fong branch]: Waiter |
-| 07/2012-08/2012 | 5) Pizza Express [Airport branch]: Waiter |
-| 07/2010-08/2010 | 6) Modern Chinese Restaurant (金滿庭京川滬菜館): Waiter |
-| 07/2010-08/2010 | 7) Holly Restaurant (逸東海鮮酒家): Waiter |
-| 01/2009-12/2012 | 8) AsiaWorld-Expo Ltd.: Event Attendant (PT) |
+<table>
+    <tr>
+        <td>11/2022-04/2023</td>
+        <td>Starbucks Canada: Barista (PT)</td>
+    </tr>
+    <tr>
+        <td>09/2016-06/2019</td>
+        <td>City University of Hong Kong [Campus Work Scheme (CWS)]: Student Helper</td>
+    </tr>
+    <tr>
+        <td>04/2016-03/2017</td>
+        <td>Social Sciences Research Centre of The University of Hong Kong: Telephone Interviewer (PT)</td>
+    </tr>
+    <tr>
+        <td>07/2013-08/2013</td>
+        <td>Ma Thai [Kwai Fong branch]: Waiter</td>
+    </tr>
+    <tr>
+        <td>07/2012-08/2012</td>
+        <td>Pizza Express [Airport branch]: Waiter</td>
+    </tr>
+    <tr>
+        <td>07/2010-08/2010</td>
+        <td>Modern Chinese Restaurant (金滿庭京川滬菜館): Waiter</td>
+    </tr>
+    <tr>
+        <td>07/2010-08/2010</td>
+        <td>Holly Restaurant (逸東海鮮酒家): Waiter</td>
+    </tr>
+    <tr>
+        <td>01/2009-12/2012</td>
+        <td>AsiaWorld-Expo Ltd.: Event Attendant (PT)</td>
+    </tr>
+</table>
 
 <h1>Paid Work Experience – Education Industry</h1>
 
