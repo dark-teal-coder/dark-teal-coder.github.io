@@ -55,28 +55,34 @@ IT and Development Tools
 -	Google Translator Toolkit
 -	Sketch Engine
 
-IT Courses from Interest Classes and Self-Learning Online Platforms
--	HKFTU Java Programming (instructor-led)
-  -	Basic Java programming 
-    -	data types, variables, operators, conditionals, loops, methods/functions and data structures
-  -	Objects and classes in Java: methods, classes and packages/libraries
-  -	Eclipse for Java
--	HKFTU Android Apps and Java Programming (instructor-led)
-  -	Basic Java programming
-    -	data types, variables, operators, conditionals, loops, methods/functions and data structures
-  -	Objects and classes in Java: methods, classes and packages/libraries
-  -	Eclipse for Java
-  -	Android Studio to design UI and use XML and Java to create UX for simple Android apps
+<h1>IT Courses from Interest Classes and Self-Learning Online Platforms</h1>
+<ul>
+    <li>HKFTU Java Programming (instructor-led)</li>
+        <li>Basic Java programming</li> 
+            <li>data types, variables, operators, conditionals, loops, methods/functions and data structures</li>
+        <li>Objects and classes in Java: methods, classes and packages/libraries</li>
+        <li>Eclipse for Java</li>
+    <li>HKFTU Android Apps and Java Programming (instructor-led)</li>
+        <li>Basic Java programming</li>
+            <li>data types, variables, operators, conditionals, loops, methods/functions and data structures</li>
+        <li>Objects and classes in Java: methods, classes and packages/libraries</li>
+        <li>Eclipse for Java</li>
+        <li>Android Studio to design UI and use XML and Java to create UX for simple Android apps</li>
+</ul>
 
 | HACKATHON |  | 
 |:-------------|:-|
 | 10/2019-10/2019 | Classified Post Hackathon 2019 |
 | 10/2019-10/2019 | SmarTone Hackathon 2019 |
 
-Mathematics Courses at the University Level
--	MA1200 Calculus and Basic Linear Algebra I [A]
--	MA1201 Calculus and Basic Linear Algebra II [A+]
--	LT2206 Fundamentals of Statistics for Language Studies [A]
+<h1>Mathematics Courses at the University Level</h1>
+<ul>
+    <li>MA1200 Calculus and Basic Linear Algebra I [A]</li>
+    <li>MA1201 Calculus and Basic Linear Algebra II [A+]</li>
+    <li>LT2206 Fundamentals of Statistics for Language Studies [A]</li>
+</ul>
 
-Final-year Project
--	Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong
+<h1>Final-year Project</h1>
+<ul>
+    <li>Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong</li>
+</ul>
