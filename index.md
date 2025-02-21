@@ -3,6 +3,7 @@
 [The Academic Word List](https://dark-teal-coder.github.io/the-academic-word-list)
 [IELTS Writing All-purpose Reasons](https://dark-teal-coder.github.io/ielts-writing-all-purpose-reasons)
 
+<h1>Paid Work Experience – Service Industry</h1>
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
 | 11/2022-04/2023 | 1) Starbucks Canada: Barista (PT) | 
@@ -14,6 +15,7 @@
 | 07/2010-08/2010 | 7) Holly Restaurant (逸東海鮮酒家): Waiter |
 | 01/2009-12/2012 | 8) AsiaWorld-Expo Ltd.: Event Attendant (PT) |
 
+<h1>Paid Work Experience – Education Industry</h1>
 | PAID WORK EXPERIENCE – EDUCATION INDUSTRY |  |
 |:------------------------------------------|:-|
 | 10/2018-05/2019 | 1) The Boys' Brigade: Tutor at Mu Kuang English School |
@@ -22,6 +24,7 @@
 | 02/2015-12/2016 | 4) Christian & Missionary Alliance Tung Chung Church Education Center: English Tutor |
 | 08/2014-01/2015 | 5) Cetex Education Centre: Teacher Assistant & Clerk |
 
+<h1>Paid On-Campus Work Experience – CityU Campus Work Scheme (CWS)</h1>
 | PAID ON-CAMPUS WORK EXPERIENCE – CityU CAMPUS WORK SCHEME (CWS) |  |
 |:----------------------------------------------------------------|:-|
 | 12/2018-12/2018 | 1) Student Development Services: Student Helper (telephone interview for Graduate Employment Survey) |
@@ -78,6 +81,7 @@
     <li>Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong</li>
 </ul>
 
+<h1>Hackathon</h1>
 | HACKATHON |  | 
 |:-------------|:-|
 | 10/2019-10/2019 | Classified Post Hackathon 2019 |
