@@ -4,6 +4,7 @@
 [IELTS Writing All-purpose Reasons](https://dark-teal-coder.github.io/ielts-writing-all-purpose-reasons)
 
 <h1>Paid Work Experience – Service Industry</h1>
+
 | PAID WORK EXPERIENCE – SERVICE INDUSTRY |  |
 |:----------------------------------------|:-|
 | 11/2022-04/2023 | 1) Starbucks Canada: Barista (PT) | 
