@@ -1,9 +1,3 @@
----
-title: Home
-layout: template
-filename: index.md
---- 
-
 [Home](https://dark-teal-coder.github.io/)
 [My Advanced English Vocabulary List](https://dark-teal-coder.github.io/my-advanced-eng-vocab)
 [The Academic Word List](https://dark-teal-coder.github.io/the-academic-word-list)
@@ -39,21 +33,23 @@ filename: index.md
 | 06/2017-06/2017 | 7) Student Development Services: Student Helper (Jazz Ensemble workshops) |
 | 09/2016-01/2017 | 8) Department of Linguistics and Translation: Student Helper (“An Investigation of Strategies and Methods in Learning Chinese Vocabulary by Non-Chinese Speaking Students”, research project no.: 9211092) |
 
-IT and Development Tools
--	Notepad++
--	Eclipse for Java 
--	JetBrains PyCharm
--	SQLiteStudio
--	Jupyter Notebook (Anaconda3)
--	Android Studio
--	Bitbucket 
--	Jira
--	Microsoft Power BI
--	Katalon Studio 
--	AntConc
--	Google Books Ngram Viewer
--	Google Translator Toolkit
--	Sketch Engine
+<h1>IT and Development Tools</h1>
+<ul>
+    <li>Notepad++</li>
+    <li>Eclipse for Java</li>
+    <li>JetBrains PyCharm</li>
+    <li>SQLiteStudio</li>
+    <li>Jupyter Notebook (Anaconda3)</li>
+    <li>Android Studio</li>
+    <li>Bitbucket</li> 
+    <li>Jira</li>
+    <li>Microsoft Power BI</li>
+    <li>Katalon Studio</li> 
+    <li>AntConc</li>
+    <li>Google Books Ngram Viewer</li>
+    <li>Google Translator Toolkit</li>
+    <li>Sketch Engine</li>
+</ul>
 
 <h1>IT Courses from Interest Classes and Self-Learning Online Platforms</h1>
 <ul>
@@ -70,11 +66,6 @@ IT and Development Tools
         <li>Android Studio to design UI and use XML and Java to create UX for simple Android apps</li>
 </ul>
 
-| HACKATHON |  | 
-|:-------------|:-|
-| 10/2019-10/2019 | Classified Post Hackathon 2019 |
-| 10/2019-10/2019 | SmarTone Hackathon 2019 |
-
 <h1>Mathematics Courses at the University Level</h1>
 <ul>
     <li>MA1200 Calculus and Basic Linear Algebra I [A]</li>
@@ -86,3 +77,8 @@ IT and Development Tools
 <ul>
     <li>Data collection of Cantonese emotional words and data analysis for the sentiment analysis system of Dr. John Lee, Associate Professor, City University of Hong Kong</li>
 </ul>
+
+| HACKATHON |  | 
+|:-------------|:-|
+| 10/2019-10/2019 | Classified Post Hackathon 2019 |
+| 10/2019-10/2019 | SmarTone Hackathon 2019 |
