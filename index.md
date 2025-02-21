@@ -85,8 +85,13 @@
 </ul>
 
 <h1>Hackathon</h1>
-
-| HACKATHON |  | 
-|:-------------|:-|
-| 10/2019-10/2019 | Classified Post Hackathon 2019 |
-| 10/2019-10/2019 | SmarTone Hackathon 2019 |
+<table>
+    <tr>
+        <td>10/2019-10/2019</td>
+        <td>Classified Post Hackathon 2019</td>
+    </tr>
+    <tr>
+        <td>10/2019-10/2019</td>
+        <td>SmarTone Hackathon 2019</td>
+    </tr>
+</table>
