@@ -1,6 +1,6 @@
-Operating System (OS): Windows
+![image](https://github.com/user-attachments/assets/54040414-c1c0-45cc-b1fc-6983be527d25)Operating System (OS): Windows
 
-Steps to Install Java on Windows: 
+# Steps to Install Java on Windows: 
 1. Go to [https://www.oracle.com/hk/java/technologies/downloads/](https://www.oracle.com/hk/java/technologies/downloads/#jdk24-windows).
 2. Download `.exe` file.
 3. Click the downloaded `.exe` file.
@@ -13,9 +13,9 @@ Steps to Install Java on Windows:
 
 To check if Java has successfully been installed, type `java -version` into the Command Prompt.
 
-Steps to Write a Simple Java Program in a Text Editor: 
+# Steps to Write a Simple Java Program in a Text Editor: 
 1. Open a text editor (e.g., Notepad++).
-2. Copy and paste the following code:
+2. Copy and paste the following code into the file:
 ```
 // Simple Java program
 public class DarkTealCoder
@@ -31,3 +31,30 @@ public class DarkTealCoder
 5. Use the `cd` command to navigate to the `.java` file location.
 6. Type `javac DarkTealCoder.java` to compile the `.java` file into a `.class` file.
 7. Type `java DarkTealCoder` to run the program (without `.class`).
+
+# Steps to Write a Simple Java Program in Eclipse IDE:
+1. Open Eclipse IDE.
+2. Click "File".
+3. Click "New".
+4. Click "Java Project".
+5. Enter your project name.
+6. Click "Finish".
+7. When asked if you want to create `module-info.java`, click "Don't Create".
+8. Click "File".
+9. Click "New".
+10. Click "File".
+11. Enter "DarkTealCoder.java" as the file name.
+![image](https://github.com/user-attachments/assets/dd743045-68a9-4fe6-a943-4eea2d326e9f)
+12. Click "Finish".
+13. Double-click "DarkTealCoder.java".
+14. Copy and paste the following code into the file:
+```
+// Simple Java program
+public class DarkTealCoder
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!");
+    }
+}
+```
