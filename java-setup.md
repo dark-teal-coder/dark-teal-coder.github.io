@@ -13,7 +13,7 @@ Steps to Install Java on Windows:
 
 To check if Java has successfully been installed, type `java -version` into the Command Prompt.
 
-Steps to Write a Simple Java Program: 
+Steps to Write a Simple Java Program in a Text Editor: 
 1. Open a text editor (e.g., Notepad++).
 2. Copy and paste the following code:
 ```
