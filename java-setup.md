@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/54040414-c1c0-45cc-b1fc-6983be527d25)Operating System (OS): Windows
+Operating System (OS): Windows
 
 # Steps to Install Java on Windows: 
 1. Go to [https://www.oracle.com/hk/java/technologies/downloads/](https://www.oracle.com/hk/java/technologies/downloads/#jdk24-windows).
@@ -61,3 +61,5 @@ public class DarkTealCoder
 ```
 16. Press "ctrl" + "s".
 17. Click "Run".
+
+![image](https://github.com/user-attachments/assets/54040414-c1c0-45cc-b1fc-6983be527d25)
