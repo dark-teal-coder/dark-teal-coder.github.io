@@ -1,0 +1,28 @@
+DSE English Listening Paper Audio 
+
+1. Go to edcity.hk/dseaudio
+
+2. Click [Add file]
+
+3. Enter the code
+
+4. Click [Add file]
+
+
+
+
+▪️2025 ENG25-6D9T9-FSI3R-Y97VD
+
+▪️2024 ENG24-5FNUM-KX5EO-XM716
+
+▪️2023 ENG23-JQRXG-EKK8W-KZCFY
+
+▪️2022 ENG22-X5985-RPMJI-ZZ4PV
+
+▪️2021 ENG21-GG5ZC-QMFXI-FHZ8Z
+
+▪️2020 ENG20-A6OHG-IXKFO-O9RYE
+
+▪️2019 DQ6L5-KXA3I-MZC36-WBK4D
+
+▪️2018 DSIBM-AFQML-4WQ4P-MJ47L
